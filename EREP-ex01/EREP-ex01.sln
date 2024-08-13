@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EREP-ex01", "EREP-ex01\EREP-ex01.csproj", "{D971BBB8-2FA7-40AF-8046-E3B386294C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D971BBB8-2FA7-40AF-8046-E3B386294C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D971BBB8-2FA7-40AF-8046-E3B386294C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D971BBB8-2FA7-40AF-8046-E3B386294C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D971BBB8-2FA7-40AF-8046-E3B386294C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7D15B8-6FB0-4F41-8904-F6E2EFA2BB71}
+	EndGlobalSection
+EndGlobal
